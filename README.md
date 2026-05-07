@@ -4,10 +4,10 @@ Hi there 👋 I'm Varsani Dharm .R!
 I'm a passionate [Your Role, e.g., Software Developer, Data Scientist, DevOps Engineer] with a love for building scalable web applications, machine learning models, or automation tools. I enjoy solving complex problems and turning ideas into reality through code.
 
 💻 *Tech Stack*  
-- Languages: Python, JavaScript, Java, Go
+- Languages: Python, JavaScript, Java, 
 - Frameworks: React, Django, Flask, TensorFlow
-- Tools: Docker, Kubernetes, Git, AWS
-- Databases: MySQL, PostgreSQL, MongoDB
+- Tools: Docker, Kubernetes, Git, 
+- Databases: MySQL, MongoDB
 
 🌱 *Learning*  
 Currently exploring AI/ML, cloud computing, blockchain, etc. and always open to learning new technologies.
@@ -22,5 +22,4 @@ Check out my repositories for some of my work! Here are a few highlights:
 - Email: [varsanidharm@gmail.com]  
 - Portfolio: [Your Portfolio Website](link)  
 
-🌟 *Fun Fact*  
-[Add something personal or fun, e.g., "I love hiking and brewing my own coffee!"]
+
